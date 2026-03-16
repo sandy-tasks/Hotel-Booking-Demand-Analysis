@@ -14,4 +14,4 @@ This project analyzes hotel booking data to understand factors influencing cance
 - **Data Validation:** Verified dataset integrity by checking for file corruption and confirming its CC0: Public Domain license for open use.
 ## Process
 ### Data Cleaning
-- **Duplicates:** Removed 31,994 duplicate rows, leaving 87,397 unique records for analysis. This step ensures that each booking entry is distinct and prevents skewed calculations in our metrics.
+- **Duplicates:** Removed 31,994 duplicate rows, leaving 87,397 unique records for analysis. This step ensures that each booking entry is distinct and prevents skewed calculations in our metrics. 
