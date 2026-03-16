@@ -12,3 +12,6 @@ This project analyzes hotel booking data to understand factors influencing cance
     3. Are there specific months or seasons with significantly higher cancellation rates?
     4. How can the hotel optimize revenue strategies based on these findings?
 - **Data Validation:** Verified dataset integrity by checking for file corruption and confirming its CC0: Public Domain license for open use.
+## Process
+### Data Cleaning
+- **Duplicates:** Removed 31,994 duplicate rows, leaving 87,397 unique records for analysis. This step ensures that each booking entry is distinct and prevents skewed calculations in our metrics.
