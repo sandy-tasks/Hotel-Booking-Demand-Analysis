@@ -11,3 +11,4 @@ This project analyzes hotel booking data to understand factors influencing cance
     2. How do booking lead times influence the probability of cancellation?
     3. Are there specific months or seasons with significantly higher cancellation rates?
     4. How can the hotel optimize revenue strategies based on these findings?
+- **Data Validation:** Verified dataset integrity by checking for file corruption and confirming its CC0: Public Domain license for open use.
