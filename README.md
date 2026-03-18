@@ -14,4 +14,22 @@ This project analyzes hotel booking data to understand factors influencing cance
 - **Data Validation:** Verified dataset integrity by checking for file corruption and confirming its CC0: Public Domain license for open use.
 ## Process
 ### Data Cleaning
-- **Duplicates:** Removed 31,994 duplicate rows, leaving 87,397 unique records for analysis. This step ensures that each booking entry is distinct and prevents skewed calculations in our metrics. 
+- **Duplicates:** Removed 31,994 duplicate rows, leaving 87,397 unique records for analysis. This step ensures that each booking entry is distinct and prevents skewed calculations in our metrics.
+- Data Transformation & Enrichment
+Handled Missing Values: * Addressed 4 missing values in the children column by imputing with "0" to ensure accurate guest counts.
+
+Validated the country column for consistency.
+
+Meal Code Decoding (VLOOKUP): * Integrated a secondary reference table to translate technical meal codes (e.g., BB, HB, FB) into human-readable categories.
+
+Created a new calculated column, meal_type, using the VLOOKUP function to ensure the dashboard visuals are clear for non-technical stakeholders.
+
+Data Formatting: Standardized the ADR (Average Daily Rate) and arrival_date columns to currency and date formats for accurate time-series analysis.
+
+Analyze & Share
+Pivot Table Summarization
+I utilized Pivot Tables to aggregate the 87,397 records to identify the following:
+
+Seasonality Trends: Grouped data by arrival_date_month to calculate the Average ADR, identifying the peak revenue periods.
+
+Service Distribution: Analyzed the frequency of meal_type selections across both City and Resort hotels.
