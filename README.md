@@ -33,3 +33,21 @@ I utilized Pivot Tables to aggregate the 87,397 records to identify the followin
 Seasonality Trends: Grouped data by arrival_date_month to calculate the Average ADR, identifying the peak revenue periods.
 
 Service Distribution: Analyzed the frequency of meal_type selections across both City and Resort hotels.
+
+Data Visualization (The "Share" Phase)
+I developed a clean, professional Executive Dashboard to translate data into visual stories.
+
+ADR Seasonality Chart: A combined bar and line chart showing that August is the highest revenue month with an Average Daily Rate of $140.10, while January is the lowest.
+
+Meal Preference Analysis: A bar chart clearly identifying Bed & Breakfast (BB) as the dominant guest choice across both City and Resort hotels.
+
+Executive Summary: Integrated a dedicated "Insight Box" to provide immediate value to stakeholders without requiring deep data dives.
+
+Key Insights & Recommendations (The "Act" Phase)
+Based on the analysis, I propose the following actions:
+
+Dynamic Pricing: Increase marketing efforts and premium pricing for August to capitalize on peak demand.
+
+Occupancy Strategy: Introduce "Early Bird" or "Winter Escape" promotions in January to boost the lowest ADR month of the year.
+
+Operational Focus: Ensure kitchen and inventory supply chains are optimized for Bed & Breakfast services, as this is the most consistent revenue driver in the service category.
