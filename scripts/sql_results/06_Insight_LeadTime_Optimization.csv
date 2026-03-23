@@ -1,0 +1,5 @@
+booking_window,total_bookings,cancellation_rate
+Long Term (90+ days),51131,50.65
+Medium Term (31-90 days),29553,37.7
+Short Term (8-30 days),18960,27.86
+Last Minute (0-7 days),19746,9.63
