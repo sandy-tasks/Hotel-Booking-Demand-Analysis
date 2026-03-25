@@ -1,37 +1,32 @@
-# 📊 Visualizations & Data Analysis
+🎨 Data Visualization & Insights
+This directory contains the final visual layer of the 2015 Hotel Booking Analysis. After cleaning the data in Sheets and validating it with SQL, these assets represent the "Executive View" of the project.
 
-[<- Back to Main Menu](https://github.com/SANDY-RAPHAEL-EPITAUX/Hotel-Booking-Analysis-Project)
+📊 Interactive Dashboard
+The centerpiece of this project is the interactive Tableau Dashboard. It was designed to provide hotel managers with immediate answers regarding revenue performance and guest behavior.
 
-This directory serves as the visual repository for the project, documenting the data structure and the transition from raw data to actionable business insights.
+Live Dashboard: View on Tableau Public
 
----
+Technical File: Hotel_Booking_Analysis_Final.twbx
 
-## 🔍 Data Architecture & Schema
-Before performing the analysis, the database schema was audited to ensure data types were compatible for both SQL joins and Tableau integration.
-* **Schema Snapshot:** Visual documentation of the BigQuery table structure.
-* **Key Fields:** Identification of primary keys and revenue-related metrics (ADR, Is_Canceled).
+🔍 Key Visual Pillars
+The visualization focuses on three critical business questions:
 
----
+Seasonal Revenue (ADR): Identifying the peak performance window in July and August (validating the $150.81 average).
 
-## 📈 Analysis Previews
-Initial visualizations captured during the SQL validation phase:
-* **ADR Validation:** Proof of the **$150.81** average daily rate for the peak month of August.
-* **Meal Preference Distribution:** Highlighting the dominance of the 'Bed & Breakfast' segment.
-* **Lead Time Insights:** Visualizing the correlation between booking windows and cancellation rates.
+Booking Lead Time: Visualizing the "sweet spot" for guest bookings to optimize cancellation policies.
 
----
+Meal Preferences: A categorical breakdown showing the dominance of Bed & Breakfast (BB) choices to assist in inventory planning.
 
-## 🎨 Tableau Dashboard (Upcoming)
-The next stage of this project focuses on an interactive executive dashboard created in **Tableau**. This will allow stakeholders to filter data by hotel type and guest demographics.
+🛠️ Design Strategy
+Clarity First: Used a clean, high-contrast color palette to ensure data points are readable at a glance.
 
-**Target KPIs:**
-1. **Revenue Performance:** Monthly ADR trends.
-2. **Occupancy Risk:** Real-time cancellation probability based on lead time.
-3. **Guest Profiling:** A breakdown of market segments and distribution channels.
+Interactive Tooltips: Added custom hover-over details to provide deeper context without cluttering the screen.
 
----
+Refined Layout: Hidden technical "ingredient" sheets to present a polished, single-page professional report.
 
-## 🛠️ Tools Used
-* **BigQuery Console:** For initial result snapshots.
-* **Tableau Desktop/Public:** For high-fidelity data storytelling.
-* **Snagit/Lightshot:** For technical documentation captures.
+🚀 How to View the Master File
+To open the .twbx file locally:
+
+Download the file from this directory.
+
+Open using Tableau Desktop or the free Tableau Reader.
