@@ -35,7 +35,7 @@ Confirmed the dataset's reliability and consistency before beginning the cleanin
 
 ### ⚙️ **Technical Validation (BigQuery SQL)**
 I migrated the cleaned data to **Google BigQuery** for a "Single Source of Truth."
-* **Scripting:** Developed [6 SQL Scripts](./scripts/) to replicate the Sheets results.
+* **Scripting:** Developed [6 SQL Scripts](./scripts/sql_codes/) to replicate the Sheets results.
 * **Reconciliation:** Successfully resolved a $0.07 variance in ADR caused by toolset rounding differences, validating the final peak ADR at **$150.81**.
 
 ---
