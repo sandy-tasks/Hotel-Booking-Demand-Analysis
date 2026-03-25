@@ -1,7 +1,8 @@
 🎨 Data Visualization & Insights
+
 This directory contains the final visual layer of the 2015 Hotel Booking Analysis. After cleaning the data in Sheets and validating it with SQL, these assets represent the "Executive View" of the project.
 
-📁 Folder Content
+📁 Folder Structure
 1. Interactive Dashboard
 The centerpiece of this project is the interactive Tableau Dashboard. It was designed to provide hotel managers with immediate answers regarding revenue performance and guest behavior.
 
@@ -18,12 +19,12 @@ Booking Lead Time: Visualizing the "sweet spot" for guest bookings to optimize c
 
 Meal Preferences: A categorical breakdown showing the dominance of Bed & Breakfast (BB) choices.
 
-⚙️ Design Strategy: "The Executive View"
+⚙️ Technical Strategy: "The Executive View"
 The dashboard was built to ensure that complex data is digestible for stakeholders at a glance.
 
 Key Logic Applied:
 
-Clarity First: Used a clean, high-contrast color palette to ensure data points are readable.
+Clarity First: Used a clean, high-contrast color palette to ensure data points are readable at a glance.
 
 Interactive Tooltips: Added custom hover-over details to provide deeper context without cluttering the screen.
 
