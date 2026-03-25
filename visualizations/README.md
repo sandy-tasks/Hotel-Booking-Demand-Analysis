@@ -1,5 +1,4 @@
 🎨 Data Visualization & Insights
-
 This directory contains the final visual layer of the 2015 Hotel Booking Analysis. After cleaning the data in Sheets and validating it with SQL, these assets represent the "Executive View" of the project.
 
 📁 Folder Structure
@@ -28,10 +27,6 @@ Clarity First: Used a clean, high-contrast color palette to ensure data points a
 
 Interactive Tooltips: Added custom hover-over details to provide deeper context without cluttering the screen.
 
-Refined Layout: Hidden technical "ingredient" sheets to present a polished, single-page professional report.
-
-🚀 How to Use
-To open the .twbx file locally, download it from this directory and open it using Tableau Desktop or the free Tableau Reader. Alternatively, use the Live Dashboard link above for the full interactive experience.
 Refined Layout: Hidden technical "ingredient" sheets to present a polished, single-page professional report.
 
 🚀 How to Use
