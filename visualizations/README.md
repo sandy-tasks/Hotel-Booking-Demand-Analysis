@@ -32,3 +32,7 @@ Refined Layout: Hidden technical "ingredient" sheets to present a polished, sing
 
 🚀 How to Use
 To open the .twbx file locally, download it from this directory and open it using Tableau Desktop or the free Tableau Reader. Alternatively, use the Live Dashboard link above for the full interactive experience.
+Refined Layout: Hidden technical "ingredient" sheets to present a polished, single-page professional report.
+
+🚀 How to Use
+To open the .twbx file locally, download it from this directory and open it using Tableau Desktop or the free Tableau Reader. Alternatively, use the Live Dashboard link above for the full interactive experience.
