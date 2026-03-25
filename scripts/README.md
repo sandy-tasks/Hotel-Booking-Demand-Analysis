@@ -1,6 +1,6 @@
 # 🛠️ SQL Scripts & Data Validation
 
-This directory contains the core technical assets for the Hotel Booking Analysis project. It is organized into two primary sub-folders to separate the logic (code) from the evidence (results).
+This directory contains the core technical assets for the 2015 Hotel Booking Analysis project. It is organized into two primary sub-folders to separate the logic (code) from the evidence (results).
 
 ---
 
