@@ -9,7 +9,7 @@ This directory contains the final visual layer of the 2015 Hotel Booking Analysi
 ### 1. **Interactive Dashboard**
 The centerpiece of this project is the interactive Tableau Dashboard. It was designed to provide hotel managers with immediate answers regarding revenue performance and guest behavior.
 * **Live Dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/sandy.epitaux/viz/Hotel_Booking_Analysis_Final/Hotel_Booking_Analysis_Summary)
-* **Technical File:** [Hotel_Booking_Analysis_Final.twbx](./Hotel_Booking_Analysis_Final.twbx)
+* **Technical File:** [Download .twbx Master File](./Hotel_Booking_Analysis_Final.twbx)
 
 ### 2. **Key Visual Pillars**
 The visualization focuses on three critical business questions:
@@ -30,4 +30,4 @@ The dashboard was built to ensure that complex data is digestible for stakeholde
 ---
 
 ## 🚀 **How to Use**
-To open the `.twbx` file locally, download it from this directory and open it using **Tableau Desktop** or the free **Tableau Reader**. Alternatively, use the **Live Dashboard** link above for the full interactive experience.
+To open the `.twbx` file locally, click the **Download** link above, then click the **Download** button on the next page. Once saved, open it using **Tableau Desktop** or the free **Tableau Reader**.
